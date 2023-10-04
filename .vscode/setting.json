@@ -1,0 +1,23 @@
+{
+  "editor.tokenColorCustomizations": {
+  "comments": "#FFA7AF"
+  },
+  "workbench.colorTheme": "Framer Syntax 2",
+  "terminal.external.osxExec": "iTerm.app",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
